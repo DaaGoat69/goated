@@ -8,8 +8,8 @@
    <h3>Enmity</h3>
    Main code for Enmity.
 
-   Installation guide can be found [here](https://github.com/enmity-mod/enmity/blob/main/docs/install.md).
-   Developer guide can be found [here](https://github.com/enmity-mod/enmity/blob/main/docs/developers.md).
+   Installation guide can be found [here](https://github.com/DaaGoat69/goated/blob/main/docs/install.md).
+   Developer guide can be found [here](https://github.com/DaaGoat69/goated/blob/main/docs/developers.md).
    </p>
 </div>
 
