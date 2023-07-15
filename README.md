@@ -1,12 +1,6 @@
 <div align='center'>
-   <img src='https://repo.enmity.app/banner.png' />
-</div>
-
----
-
-<div align='center'>
    <h3>Enmity</h3>
-   Main code for Enmity.
+   Main code for Goated.
 
    Installation guide can be found [here](https://github.com/enmity-mod/enmity/blob/main/docs/install.md).
    Developer guide can be found [here](https://github.com/enmity-mod/enmity/blob/main/docs/developers.md).
