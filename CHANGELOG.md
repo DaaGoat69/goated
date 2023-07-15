@@ -1,7 +1,7 @@
 # 2.0.0
 
-- Rewrote the entirety of Enmity for performance & comfortability
-- Redesigned all of Enmity's UI to be more consistent with Discord's
+- Rewrote the entirety of Goated for performance & comfortability
+- Redesigned all of Goated's UI to be more consistent with Discord's
 - Added image backgrounds option for themes usable by providing the following keys:
 
 <br />
