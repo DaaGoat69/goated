@@ -1,5 +1,5 @@
 <div align='center'>
-   <h3>Enmity</h3>
+   <h3>Goated</h3>
    Main code for Goated.
 
    Installation guide can be found [here](https://github.com/enmity-mod/enmity/blob/main/docs/install.md).
